@@ -35,10 +35,10 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 
 | Nome  | Contato |
 | ------------- | ------------- |
-| Raquel Gonçalves Valgas  | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) |
-| Guilherme da Silva Duarte | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  |
+| Raquel Gonçalves Valgas  | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] |
+| Guilherme da Silva Duarte | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-da-silva-duarte-b19209186/)  |
 | João Victor Vieira Balbino Silva| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorvieirabalbino/)  |
-| Murilo Linguiti de Oliveira | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  |
+| Murilo Linguiti de Oliveira | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]  |
 
 # Imagem_1
 ![Imagem_1](https://user-images.githubusercontent.com/59425970/203454586-81334f11-1ca5-4284-af1e-844fcb0f1c25.png)
