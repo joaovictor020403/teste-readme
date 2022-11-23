@@ -9,9 +9,8 @@
 
 
 
-<!--ts-->
    * [Sobre](#Teste)
-<!--te-->
+
 
 
 <p align="center">
