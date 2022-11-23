@@ -18,7 +18,7 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 
 
 # Demostração do Projeto
-* ###  [Cadastro de usuário](#Imagem 1)
+* ###  [Cadastro de usuário](#Imagem_1)
 * ###  [Tela de login](#Imagem_1)
 
 
@@ -80,7 +80,7 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 > - Em Desenvolvimento...
  
  
-# Imagem 1
+# Imagem_1
 ![Imagem_1](https://user-images.githubusercontent.com/59425970/203454586-81334f11-1ca5-4284-af1e-844fcb0f1c25.png)
 
  
