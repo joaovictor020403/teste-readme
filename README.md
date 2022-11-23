@@ -7,7 +7,7 @@
 
 # Sobre o Projeto
 
-Projeto realizado com o intuito de ser utilizado para avaliação do 8° Semestre do curso de Ciências da Computação, ministrada pelos professores **Thiago Traue** e outro professor, na Universidade Nove de Julho (UNINOVE)
+Projeto realizado com o intuito de ser utilizado para avaliação do 8° Semestre do curso de Ciências da Computação, ministrada pelos professores **Thiago Graziani Traue** e **Gabriel Nunes Galan** , na Universidade Nove de Julho (UNINOVE)
 
 A aplicação consiste em um serviço online de cadastro de animais por meio de um chatbot as pessoas
 cadastram seus pets com fotos, descrição, nome, raça e tudo mais. Formando um
