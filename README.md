@@ -42,10 +42,10 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 
 # Imagens do Projeto
 - ## Login
-![#TelaDeLogin](https://user-images.githubusercontent.com/59425970/204044044-a4aad4f6-33a3-4ab4-836d-e223a0914b6c.png)
+    ![#TelaDeLogin](https://user-images.githubusercontent.com/59425970/204044044-a4aad4f6-33a3-4ab4-836d-e223a0914b6c.png)
 
-- ## Cadastro
-![#CadastroUsuario](https://user-images.githubusercontent.com/59425970/204044908-180c498d-b855-4614-9433-766023c1b507.png)
+- ## Cadastro de usuário
+    ![#CadastroUsuario](https://user-images.githubusercontent.com/59425970/204044908-180c498d-b855-4614-9433-766023c1b507.png)
 
 
 > ### Status do Projeto
