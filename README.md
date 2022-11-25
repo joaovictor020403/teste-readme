@@ -21,7 +21,7 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 * ###  [Tela de login](#Login)
 * ###  [Cadastro de usuário](#Cadastro-Usuario)
 * ###  [Tela de menu](#Menu)
-* ###  [Cadastro de pets](#Cadastro-Pet)
+* ###  [Cadastro de pets](#Cadastro-Pets)
 * ###  [Agendamento banho e tosa](#Agendamento)
 * ###  [Cadastro pet shop](#Cadastro-Pet-Shop)
  
