@@ -59,7 +59,7 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 - ## Agendamento
     ![Agendamento](https://user-images.githubusercontent.com/59425970/204049040-9a4bbd10-243d-42d0-bf00-2b1a07905ee5.png)
 
-- ## Cadastro-Pet_Shop
+- ## Cadastro-Pet-Shop
     ![CadastroPetShop](https://user-images.githubusercontent.com/59425970/204049205-33ab99cd-de38-47c9-ad48-b8ee7dc63744.png)
 
 
