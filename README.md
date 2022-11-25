@@ -19,7 +19,7 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 
 # Demostração do Projeto
 * ###  [Tela de login](#Login)
-* ###  [Cadastro de usuário](#Imagem_1)
+* ###  [Cadastro de usuário](#Cadastro)
 
  
 # Pré-requisitos
