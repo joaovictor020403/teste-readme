@@ -1,4 +1,4 @@
-# Projeto de Desenvolvimento de Aplicações - Grupo (tal)
+# Projeto de Desenvolvimento de Aplicações - Grupo 14
 # Click Pet
 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/joaovictor020403/teste-readme/blob/main/LICENSE)
@@ -18,8 +18,8 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 
 
 # Demostração do Projeto
+* ###  [Tela de login](#TelaDeLogin)
 * ###  [Cadastro de usuário](#Imagem_1)
-* ###  [Tela de login](#Imagem_2)
 
  
 # Pré-requisitos
@@ -35,13 +35,14 @@ ele combine com a pessoa que perdeu facilitando a devolução do animal perdido.
 
 | Nome  | Contato |
 | ------------- | ------------- |
-| Raquel Gonçalves Valgas  | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] |
+| Raquel Gonçalves Valgas  | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-gon%C3%A7alves-valgas-6989a217a/) |
 | Guilherme da Silva Duarte | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-da-silva-duarte-b19209186/)  |
-| João Victor Vieira Balbino Silva| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorvieirabalbino/)  |
-| Murilo Linguiti de Oliveira | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]  |
+| João Victor Vieira Balbino Silva| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorvieirabalbino/)  | 
+| Murilo Linguiti de Oliveira | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilolinguiti/) |
 
 # Imagem_1
 ![Imagem_1](https://user-images.githubusercontent.com/59425970/203454586-81334f11-1ca5-4284-af1e-844fcb0f1c25.png)
+![#TelaDeLogin](https://user-images.githubusercontent.com/59425970/204044044-a4aad4f6-33a3-4ab4-836d-e223a0914b6c.png)
 
 
 
